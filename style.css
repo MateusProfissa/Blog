@@ -1,0 +1,21 @@
+.Viagem1 {
+    border: 1px solid black;
+}
+.Viagem1 img {
+    width: 100%;
+}
+.Viagem1 h1, h2, h3, p {
+    margin: 20px;
+}
+.Filmes {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.Filmes i {
+    float: right;
+}
+.text-filme span {
+    color: yellow;
+}
